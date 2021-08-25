@@ -7,7 +7,7 @@ Banner for future programs in OOP [Assignment 3](https://github.com/rugbyprof/21
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [banner.txt]       | This is the banner I chose |
+|   1   | [banner.txt](https://github.com/tdsnyder3/2143-OOP-Snyder/blob/main/Assignments/A03/Banner.txt)       | This is the banner I chose |
 
 
 ### Instructions
