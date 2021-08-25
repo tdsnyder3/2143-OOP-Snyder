@@ -8,7 +8,7 @@ Assigment one, uploaded files are images to provide proof of comm check [Assignm
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [Slack.PNG]       | Screen snippet showing access to the 2143-oop slack channel and photo on slack profile. |
-|   2   | [Roster.PNG]      | Screen snippet showing completion of fields related to myself on google roster. |
+|   2   | [Roster.PNG](https://github.com/tdsnyder3/2143-OOP-Snyder/blob/main/Assignments/A01/Roster.PNG)      | Screen snippet showing completion of fields related to myself on google roster. |
 
 ### Instructions
 
