@@ -12,4 +12,4 @@ Consists of links to direct you to reqested set ups, Repo for class and Assigmen
 
 ### Instructions
 
-- click the links if desired
+- click the links provided
