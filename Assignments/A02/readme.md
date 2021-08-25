@@ -8,7 +8,7 @@ Consists of links to direct you to reqested set ups, Repo for class and Assigmen
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [OOP Repo](https://github.com/tdsnyder3/2143-OOP-Snyder)       | OOP Repo Direct |
-|   2   | [Assignments Folder]      | Assigment folder direct |
+|   2   | [Assignments Folder](https://github.com/tdsnyder3/2143-OOP-Snyder/tree/main/Assignments)      | Assigment folder direct |
 
 ### Instructions
 
