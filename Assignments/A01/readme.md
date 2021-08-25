@@ -12,4 +12,4 @@ Assigment one, uploaded files are images to provide proof of comm check [Assignm
 
 ### Instructions
 
-- View each image if desired
+- View each image provided
