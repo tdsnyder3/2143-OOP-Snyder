@@ -8,7 +8,7 @@ but we dont need to write that here.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [main.cpp](https://github.com/tdsnyder3/2143-OOP-Snyder/tree/main/Assignments/A04) | Main driver of my list program . |
+|   1   | [main.cpp](https://github.com/tdsnyder3/2143-OOP-Snyder/blob/main/Assignments/A04/main.cpp) | Main driver of my list program . |
 
 
 ### Instructions
