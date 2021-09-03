@@ -6,8 +6,8 @@ but we dont need to write that here.
 
 ### Files
 
-|   #   | File     | Description                      |
-| :---: | -------- | -------------------------------- |
+|   #   | File                                                                                        | Description                      |
+| :---: | ------------------------------------------------------------------------------------------- | -------------------------------- |
 |   1   | [main.cpp](https://github.com/tdsnyder3/2143-OOP-Snyder/blob/main/Assignments/A04/main.cpp) | Main driver of my list program . |
 
 
